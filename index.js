@@ -1,6 +1,6 @@
 var fs = require('fs');
 var parser = require('subtitles-parser');
-var srt = fs.readFileSync('narcosS01E01_en.srt','utf8');
+var srt = fs.readFileSync('srt/narcosS01E01_en.srt','utf8');
 var sbf = require('./lib/sortbyfrequency.js');
 var ignore = require('./lib/ignore.js');
 
