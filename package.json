@@ -1,0 +1,23 @@
+{
+  "name": "srtparse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "subtitles-parser": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aapit/srtparse.git"
+  },
+  "author": "David Spreekmeester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aapit/srtparse/issues"
+  },
+  "homepage": "https://github.com/aapit/srtparse#readme"
+}
